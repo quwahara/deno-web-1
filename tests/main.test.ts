@@ -1,3 +1,8 @@
+// This software is released under the MIT License, see LICENSE
+
+// Original
+// https://deno.land/manual@v1.14.1/testing#writing-tests
+
 import { assertEquals } from "./deps.ts";
 
 // Simple name and function, compact form, but not configurable

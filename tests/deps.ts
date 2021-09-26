@@ -1,1 +1,3 @@
+// This software is released under the MIT License, see LICENSE
+
 export { assertEquals } from "https://deno.land/std@0.108.0/testing/asserts.ts";
