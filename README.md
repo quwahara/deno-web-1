@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=jC8gOkVQxdg
 具体的には下記の例を少し改変したもので試した。  
 https://deno.land/manual@v1.14.1/examples/http_server#sample-web-server
 
-以下のアプリケーションを公開した。
+以下のアプリケーションを公開した。  
 https://deno-web-1.herokuapp.com/
 
 ## 主な作業
