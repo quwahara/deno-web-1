@@ -13,6 +13,7 @@ cli.parse();
 const options = cli.options;
 const addr = ":" + options.port;
 
+// deno-lint-ignore no-unused-vars
 const handler = (request: Request): Response => {
     const body = "Hello, world.";
     return new Response(body, { status: 200 });
